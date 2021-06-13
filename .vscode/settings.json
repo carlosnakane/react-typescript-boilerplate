@@ -1,0 +1,12 @@
+{
+    "window.title": "${dirty}${rootName}${separator}${activeEditorShort}${separator}${appName}",
+    "files.eol": "\n",
+    "editor.codeActionsOnSave": {
+      "source.fixAll.eslint": true
+    },
+    "eslint.probe": [
+      "typescript",
+      "typescriptreact",
+      "html"
+    ]
+  }
